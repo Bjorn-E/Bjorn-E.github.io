@@ -1,0 +1,65 @@
+{
+  "id": "AB1234-2",
+  "number": 2,
+  "projectKey": "AB1234",
+  "parentId": "AB1234-1",
+  "title": "Definer Forsvarets verksteder",
+  "description": "I MDP må det beskrives hvor utstyret skal vedlikeholdes",
+  "reason": "",
+  "deliverable": "Organisasjonen og lokasjoner alt utstyr skal lokaliseres",
+  "source": "Internal",
+  "sourceRef": "",
+  "status": "inprogress",
+  "severity": "medium",
+  "assignee": "u_mv73iot4fr4a9",
+  "reporter": "u_mv73937bd8f9r",
+  "startDate": "",
+  "dueDate": "",
+  "progress": 0,
+  "solution": "",
+  "completedAt": "",
+  "log": [
+    {
+      "id": "mv73ez117f6sn",
+      "at": "2026-10-13T19:47:43.189Z",
+      "by": "u_mv73937bd8f9r",
+      "kind": "system",
+      "text": "Task created"
+    },
+    {
+      "id": "mv73ki2lkfy5k",
+      "at": "2026-10-13T19:52:01.149Z",
+      "by": "u_mv73937bd8f9r",
+      "kind": "system",
+      "text": "Responsible: unassigned → Ole-Petter"
+    },
+    {
+      "id": "mv811dxlkx1zn",
+      "at": "2026-10-14T11:28:56.265Z",
+      "by": "u_mv73937bd8f9r",
+      "kind": "change",
+      "text": "Status: To Do → In Progress",
+      "field": "status",
+      "from": "todo",
+      "to": "inprogress"
+    },
+    {
+      "id": "mv811dxljrm49",
+      "at": "2026-10-14T11:28:56.265Z",
+      "by": "u_mv73937bd8f9r",
+      "kind": "change",
+      "text": "Review result: (empty) → Review pending",
+      "field": "reviewStatus",
+      "from": "",
+      "to": "pending"
+    }
+  ],
+  "createdAt": "2026-10-13T19:47:43.197Z",
+  "createdBy": "u_mv73937bd8f9r",
+  "rev": 3,
+  "updatedAt": "2026-10-14T11:28:56.296Z",
+  "updatedBy": "u_mv73937bd8f9r",
+  "reviewStatus": "pending",
+  "reviewedAt": "",
+  "reviewedBy": ""
+}

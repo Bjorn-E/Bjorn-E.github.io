@@ -1,0 +1,30 @@
+{
+  "key": "AC342",
+  "name": "Testprosjekt",
+  "description": "",
+  "owner": "u_mv73937bd8f9r",
+  "startDate": "",
+  "endDate": "",
+  "history": [
+    {
+      "id": "mv80nddzjxfyd",
+      "at": "2026-10-14T11:18:02.375Z",
+      "by": "u_mv73937bd8f9r",
+      "text": "Project created"
+    },
+    {
+      "id": "mv81ctujl77r3",
+      "at": "2026-10-14T11:37:50.107Z",
+      "by": "u_mv73937bd8f9r",
+      "text": "Project marked as completed"
+    }
+  ],
+  "createdAt": "2026-10-14T11:18:02.375Z",
+  "createdBy": "u_mv73937bd8f9r",
+  "rev": 2,
+  "updatedAt": "2026-10-14T11:37:50.119Z",
+  "updatedBy": "u_mv73937bd8f9r",
+  "status": "completed",
+  "completedAt": "2026-10-14T11:37:50.107Z",
+  "completedBy": "u_mv73937bd8f9r"
+}

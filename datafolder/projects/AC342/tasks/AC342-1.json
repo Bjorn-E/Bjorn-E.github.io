@@ -1,0 +1,62 @@
+{
+  "id": "AC342-1",
+  "number": 1,
+  "projectKey": "AC342",
+  "parentId": "",
+  "title": "Testprosjekt-testtask",
+  "externalRef": "",
+  "description": "",
+  "deliverable": "",
+  "source": "Internal",
+  "sourceRef": "",
+  "status": "todo",
+  "severity": "medium",
+  "assignee": "u_mv73937bd8f9r",
+  "reporter": "u_mv73937bd8f9r",
+  "startDate": "",
+  "dueDate": "",
+  "originalDueDate": "",
+  "progress": 0,
+  "solution": "",
+  "completedAt": "",
+  "reviewRequired": false,
+  "reviewer": "",
+  "reviewStatus": "pending",
+  "reviewNote": "",
+  "reviewComment": "",
+  "reviewedAt": "",
+  "reviewedBy": "",
+  "log": [
+    {
+      "id": "mv80nsqpc3p44",
+      "at": "2026-10-14T11:18:22.273Z",
+      "by": "u_mv73937bd8f9r",
+      "kind": "system",
+      "text": "Task created"
+    },
+    {
+      "id": "mv80o0h899lhd",
+      "at": "2026-10-14T11:18:32.300Z",
+      "by": "u_mv73937bd8f9r",
+      "kind": "change",
+      "text": "Responsible: (empty) → Bjorn-Erik",
+      "field": "assignee",
+      "from": "",
+      "to": "u_mv73937bd8f9r"
+    },
+    {
+      "id": "mv80o0h84h9aw",
+      "at": "2026-10-14T11:18:32.300Z",
+      "by": "u_mv73937bd8f9r",
+      "kind": "system",
+      "text": "Assigned to Bjorn-Erik on the Allocation page"
+    }
+  ],
+  "links": [],
+  "docLinks": [],
+  "createdAt": "2026-10-14T11:18:22.285Z",
+  "createdBy": "u_mv73937bd8f9r",
+  "rev": 2,
+  "updatedAt": "2026-10-14T11:18:32.318Z",
+  "updatedBy": "u_mv73937bd8f9r"
+}

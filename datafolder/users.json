@@ -1,0 +1,28 @@
+{
+  "rev": 7,
+  "users": [
+    {
+      "id": "u_mv73937bd8f9r",
+      "name": "Bjorn-Erik",
+      "email": "bjalexanderse@mil.no",
+      "active": true,
+      "role": "admin",
+      "department": "Våpen"
+    },
+    {
+      "id": "u_mv73is23qktqy",
+      "name": "Celine",
+      "email": "soncelazz@mil.no",
+      "active": true,
+      "department": "Ammo"
+    },
+    {
+      "id": "u_mv73iot4fr4a9",
+      "name": "Ole-Petter",
+      "email": "",
+      "active": true
+    }
+  ],
+  "updatedAt": "2026-10-13T20:48:41.952Z",
+  "updatedBy": "u_mv73937bd8f9r"
+}

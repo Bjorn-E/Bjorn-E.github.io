@@ -1,0 +1,74 @@
+{
+  "id": "AB1234-1",
+  "number": 1,
+  "projectKey": "AB1234",
+  "parentId": "",
+  "title": "Lag MDP",
+  "description": "Opprett og lag materiell drifts plan for prosjektet",
+  "reason": "Nødvendig for å kunne levere TFG",
+  "deliverable": "MDP dokument",
+  "source": "Internal",
+  "sourceRef": "Prinsix",
+  "status": "review",
+  "severity": "medium",
+  "assignee": "u_mv73937bd8f9r",
+  "reporter": "u_mv73937bd8f9r",
+  "startDate": "",
+  "dueDate": "",
+  "progress": 0,
+  "solution": "",
+  "completedAt": "",
+  "log": [
+    {
+      "id": "mv73cftfuv0hz",
+      "at": "2026-10-13T19:45:44.979Z",
+      "by": "u_mv73937bd8f9r",
+      "kind": "system",
+      "text": "Task created"
+    },
+    {
+      "id": "mv73kpmcijyov",
+      "at": "2026-10-13T19:52:10.932Z",
+      "by": "u_mv73937bd8f9r",
+      "kind": "system",
+      "text": "Responsible: unassigned → Bjorn"
+    },
+    {
+      "id": "mv73l9le1s6v4",
+      "at": "2026-10-13T19:52:36.818Z",
+      "by": "u_mv73937bd8f9r",
+      "kind": "system",
+      "text": "Status: To Do → In Review"
+    },
+    {
+      "id": "mv74f9szo3u4q",
+      "at": "2026-10-13T20:15:56.771Z",
+      "by": "u_mv73937bd8f9r",
+      "kind": "system",
+      "text": "Email prepared (Task updated) to: Bjorn"
+    },
+    {
+      "id": "mv74jud5fostv",
+      "at": "2026-10-13T20:19:30.041Z",
+      "by": "u_mv73937bd8f9r",
+      "kind": "system",
+      "text": "Attached review document: Carlucci - Ballistics - Theory and Design of Guns and Ammunition (CRC, 2008) 1.pdf"
+    }
+  ],
+  "createdAt": "2026-10-13T19:45:44.989Z",
+  "createdBy": "u_mv73937bd8f9r",
+  "rev": 5,
+  "updatedAt": "2026-10-13T20:19:30.046Z",
+  "updatedBy": "u_mv73937bd8f9r",
+  "attachments": [
+    {
+      "id": "mv74ju9rzx7cm",
+      "name": "Carlucci - Ballistics - Theory and Design of Guns and Ammunition (CRC, 2008) 1.pdf",
+      "file": "mv74ju9rzx7cm_Carlucci - Ballistics - Theory and Design of Guns and Ammunition (CRC, 2008) 1.pdf",
+      "size": 4650066,
+      "kind": "review",
+      "by": "u_mv73937bd8f9r",
+      "at": "2026-10-13T20:19:30.041Z"
+    }
+  ]
+}

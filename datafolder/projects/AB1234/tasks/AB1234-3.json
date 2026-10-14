@@ -1,0 +1,78 @@
+{
+  "id": "AB1234-3",
+  "number": 3,
+  "projectKey": "AB1234",
+  "parentId": "AB1234-2",
+  "title": "New sub-task",
+  "description": "rtds",
+  "reason": "",
+  "deliverable": "",
+  "source": "Internal",
+  "sourceRef": "",
+  "status": "done",
+  "severity": "medium",
+  "assignee": "u_mv73937bd8f9r",
+  "reporter": "u_mv73937bd8f9r",
+  "startDate": "",
+  "dueDate": "",
+  "progress": 100,
+  "solution": "",
+  "completedAt": "2026-10-14T11:16:54.827Z",
+  "log": [
+    {
+      "id": "mv73p0lz0pizz",
+      "at": "2026-10-13T19:55:31.798Z",
+      "by": "u_mv73937bd8f9r",
+      "kind": "system",
+      "text": "Task created"
+    },
+    {
+      "id": "mv80lx9os7nff",
+      "at": "2026-10-14T11:16:54.828Z",
+      "by": "u_mv73937bd8f9r",
+      "kind": "change",
+      "text": "Status: To Do → Done",
+      "field": "status",
+      "from": "todo",
+      "to": "done"
+    },
+    {
+      "id": "mv80lx9oscw5z",
+      "at": "2026-10-14T11:16:54.828Z",
+      "by": "u_mv73937bd8f9r",
+      "kind": "change",
+      "text": "Responsible: (empty) → Bjorn-Erik",
+      "field": "assignee",
+      "from": "",
+      "to": "u_mv73937bd8f9r"
+    },
+    {
+      "id": "mv80lx9og5xmi",
+      "at": "2026-10-14T11:16:54.828Z",
+      "by": "u_mv73937bd8f9r",
+      "kind": "change",
+      "text": "Review result: (empty) → Review pending",
+      "field": "reviewStatus",
+      "from": "",
+      "to": "pending"
+    },
+    {
+      "id": "mv80lx9obgeee",
+      "at": "2026-10-14T11:16:54.828Z",
+      "by": "u_mv73937bd8f9r",
+      "kind": "change",
+      "text": "Progress: 0% → 100%",
+      "field": "progress",
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "createdAt": "2026-10-13T19:55:31.820Z",
+  "createdBy": "u_mv73937bd8f9r",
+  "rev": 2,
+  "updatedAt": "2026-10-14T11:16:54.886Z",
+  "updatedBy": "u_mv73937bd8f9r",
+  "reviewStatus": "pending",
+  "reviewedAt": "",
+  "reviewedBy": ""
+}

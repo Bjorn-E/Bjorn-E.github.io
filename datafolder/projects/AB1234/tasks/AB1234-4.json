@@ -1,0 +1,91 @@
+{
+  "id": "AB1234-4",
+  "number": 4,
+  "projectKey": "AB1234",
+  "parentId": "",
+  "title": "Test task",
+  "description": "Test description",
+  "deliverable": "test Deliverable",
+  "source": "Internal",
+  "sourceRef": "",
+  "status": "done",
+  "severity": "medium",
+  "assignee": "u_mv73937bd8f9r",
+  "reporter": "u_mv73937bd8f9r",
+  "startDate": "",
+  "dueDate": "2026-10-14",
+  "originalDueDate": "2026-10-14",
+  "progress": 100,
+  "solution": "test solution,\nEasy fix",
+  "completedAt": "2026-10-13T21:10:59.166Z",
+  "reviewRequired": false,
+  "reviewer": "",
+  "reviewStatus": "pending",
+  "reviewNote": "",
+  "reviewComment": "",
+  "reviewedAt": "",
+  "reviewedBy": "",
+  "log": [
+    {
+      "id": "mv76dkmywuz93",
+      "at": "2026-10-13T21:10:36.730Z",
+      "by": "u_mv73937bd8f9r",
+      "kind": "system",
+      "text": "Task created"
+    },
+    {
+      "id": "mv76e1y6gd6zo",
+      "at": "2026-10-13T21:10:59.166Z",
+      "by": "u_mv73937bd8f9r",
+      "kind": "change",
+      "text": "Status: To Do → Done",
+      "field": "status",
+      "from": "todo",
+      "to": "done"
+    },
+    {
+      "id": "mv76e1y6xkbrs",
+      "at": "2026-10-13T21:10:59.166Z",
+      "by": "u_mv73937bd8f9r",
+      "kind": "change",
+      "text": "Solution changed",
+      "field": "solution",
+      "from": "test solution",
+      "to": "test solution,\nEasy fix"
+    },
+    {
+      "id": "mv76e1y65odrh",
+      "at": "2026-10-13T21:10:59.166Z",
+      "by": "u_mv73937bd8f9r",
+      "kind": "change",
+      "text": "Progress: 0% → 100%",
+      "field": "progress",
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "links": [],
+  "docLinks": [
+    {
+      "id": "mv76dadg85d1u",
+      "section": "solution",
+      "url": "path/to/solution/document.com",
+      "title": "SolutionDoc",
+      "by": "u_mv73937bd8f9r",
+      "at": "2026-10-13T21:10:23.428Z"
+    },
+    {
+      "id": "mv76dbp688m88",
+      "section": "description",
+      "url": "link/link/lin.com",
+      "title": "Name",
+      "by": "u_mv73937bd8f9r",
+      "at": "2026-10-13T21:10:25.146Z"
+    }
+  ],
+  "createdAt": "2026-10-13T21:10:36.740Z",
+  "createdBy": "u_mv73937bd8f9r",
+  "rev": 2,
+  "updatedAt": "2026-10-13T21:10:59.178Z",
+  "updatedBy": "u_mv73937bd8f9r"
+}

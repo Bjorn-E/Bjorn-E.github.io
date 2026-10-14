@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Bear with me">
+  <circle cx="512" cy="512" r="492" fill="#21507a"/>
+  <g fill="#fff">
+    <circle cx="297" cy="317" r="103"/>
+    <circle cx="727" cy="317" r="103"/>
+    <ellipse cx="512" cy="553" rx="297" ry="266"/>
+  </g>
+  <g fill="#21507a">
+    <circle cx="297" cy="317" r="46"/>
+    <circle cx="727" cy="317" r="46"/>
+    <circle cx="399" cy="491" r="31"/>
+    <circle cx="624" cy="491" r="31"/>
+    <ellipse cx="512" cy="655" rx="133" ry="107"/>
+  </g>
+  <polyline points="449,652 496,699 585,602" fill="none" stroke="#fff" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
